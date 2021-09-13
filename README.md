@@ -33,7 +33,7 @@ To utilize the application you may navigate to [https://ant-note-taker.herokuapp
 <img src="public/assets/images/ScreenshotOfHomePage.jpg" alt="Home Page of NoteTaker 2.0"/>
 
 #### Notes Page
-<img src="public/assets/images/ScreenshotofProject.jpg" alt="Inside of NoteTaker 2.0"/>
+<img src="public/assets/images/ScreenshotOfProject.jpg" alt="Inside of NoteTaker 2.0"/>
 
 ## Questions
 If you have questions about this project, please contact me via one of the methods listed below:
